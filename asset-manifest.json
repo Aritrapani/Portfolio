@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Aritrapani/Portfolio.git/static/css/main.df97e455.css",
-    "main.js": "/Aritrapani/Portfolio.git/static/js/main.07255968.js",
-    "static/media/Aritra.jpg": "/Aritrapani/Portfolio.git/static/media/Aritra.6d937023098c5d60d0cb.jpg",
-    "static/media/Aritra-Pani-Resume.pdf": "/Aritrapani/Portfolio.git/static/media/Aritra-Pani-Resume.0888ba7fe3d19512394a.pdf",
-    "static/media/glassesimoji.png": "/Aritrapani/Portfolio.git/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/Gumela Regular.otf": "/Aritrapani/Portfolio.git/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
-    "static/media/thumbup.png": "/Aritrapani/Portfolio.git/static/media/thumbup.e06790ba656f0397cbe5.png",
-    "static/media/humble.png": "/Aritrapani/Portfolio.git/static/media/humble.c8b32b53675e68978981.png",
-    "static/media/heartemoji.png": "/Aritrapani/Portfolio.git/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
-    "static/media/wave.png": "/Aritrapani/Portfolio.git/static/media/wave.fdfef4069ad90f610990.png",
-    "static/media/crown.png": "/Aritrapani/Portfolio.git/static/media/crown.dbe416beae9b49b842ab.png",
-    "static/media/Vector2.png": "/Aritrapani/Portfolio.git/static/media/Vector2.28db5bfd58081dd1df1b.png",
-    "static/media/glasses.png": "/Aritrapani/Portfolio.git/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
-    "index.html": "/Aritrapani/Portfolio.git/index.html",
-    "main.df97e455.css.map": "/Aritrapani/Portfolio.git/static/css/main.df97e455.css.map",
-    "main.07255968.js.map": "/Aritrapani/Portfolio.git/static/js/main.07255968.js.map"
+    "main.css": "/Portfolio.github.io/static/css/main.5f6915c0.css",
+    "main.js": "/Portfolio.github.io/static/js/main.7302e108.js",
+    "static/media/Aritra.jpg": "/Portfolio.github.io/static/media/Aritra.6d937023098c5d60d0cb.jpg",
+    "static/media/Aritra-Pani-Resume.pdf": "/Portfolio.github.io/static/media/Aritra-Pani-Resume.0888ba7fe3d19512394a.pdf",
+    "static/media/glassesimoji.png": "/Portfolio.github.io/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Gumela Regular.otf": "/Portfolio.github.io/static/media/Gumela Regular.0ae83c6988a536716eb4.otf",
+    "static/media/thumbup.png": "/Portfolio.github.io/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Portfolio.github.io/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Portfolio.github.io/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Portfolio.github.io/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Portfolio.github.io/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Portfolio.github.io/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Portfolio.github.io/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Portfolio.github.io/index.html",
+    "main.5f6915c0.css.map": "/Portfolio.github.io/static/css/main.5f6915c0.css.map",
+    "main.7302e108.js.map": "/Portfolio.github.io/static/js/main.7302e108.js.map"
   },
   "entrypoints": [
-    "static/css/main.df97e455.css",
-    "static/js/main.07255968.js"
+    "static/css/main.5f6915c0.css",
+    "static/js/main.7302e108.js"
   ]
 }
