@@ -1,0 +1,155 @@
+.intro{
+    height: 77vh;
+    display: flex;
+    margin-top: 6rem;
+}
+
+.i-left{
+    display: flex;
+    position: relative;
+    flex: 1;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.i-name{
+    display: flex;
+    flex-direction: column;
+}
+
+.i-name>:nth-child(1){
+    color: var(--black);
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.i-name>:nth-child(2){
+    color: var(--orange);
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.i-name>:nth-child(3){
+    color: var(--gray);
+    font-weight: 100;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+.i-btn{
+    width: 8rem;
+    height: 2rem;
+}
+
+.i-icons{
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 0rem;
+}
+
+.i-icons>*{
+    transform: scale(0.5);
+}
+
+
+
+.i-right{
+    flex: 1;
+    position: relative;
+}
+
+.i-right>*{
+    position: absolute;
+    z-index: 1;
+}
+
+.i-right>:nth-child(1){
+    transform: scale(0.7);
+    top: -9%;
+    left: -10%;
+}
+
+.i-right>:nth-child(2){
+    transform: scale(0.67);
+    top: -4.6rem;
+    left: -3rem;
+}
+
+.i-right>:nth-child(3){
+    border-radius: 45px;
+    transform: scale(0.45);
+    left: 16%;
+    top: -25%;
+}
+
+.i-right>:nth-child(4){
+    top: -19%;
+    left: -24%;
+    border-radius: 50%;
+    transform: scale(0.7);
+    padding: 0;
+}
+
+.floatingDiv1{
+    top: -4% ;
+    left: 61%;
+}
+
+.floatingDiv2{
+    top: 70% ;
+    left: -15%;
+}
+
+.blur1{
+    position: absolute;
+    width: 22rem;
+    height: 14rem;
+    border-radius: 50%;
+    background: rgb(238,210,255);
+    z-index: -9;
+    top: -18%;
+    left: 56%;
+    filter: blur(65px);
+}
+
+.blur2{
+    position: absolute;
+    width: 21rem;
+    height: 11rem;
+    border-radius: 50%;
+    background: #c1f5ff;
+    z-index: -9;
+    top: 50%;
+    left: -20%;
+    filter: blur(65px);
+}
+
+@media  screen and (max-width : 480px) {
+    .intro{
+        flex-direction: column;
+        height: 64rem;
+        gap: 4rem;
+    }
+
+    .i-right{
+        transform: scale(0.55);
+        left: -4.2rem;
+    }
+
+    .blur1 , .blur2{
+        display: none;
+    }
+
+    .i-right>:nth-child(3){
+        left: 35%;
+    }
+
+    .floatingDiv1{
+        top: 2%;
+        left: 110%;
+    }
+    .floatingDiv2{
+        bottom: 80%;
+        left: 10%;
+    }
+}

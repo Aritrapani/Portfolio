@@ -1,0 +1,23 @@
+.arrow{
+    position: fixed;
+    left: 93%;
+    top: 87%;
+}
+
+.arrow:hover{
+    cursor: pointer;
+    background: #eee;
+    border-radius: 50%;
+}
+
+@media screen and (max-width: 480px){
+    .arrow{
+      left: 80%;
+      transform: scale(0.5);
+      z-index: 999999;
+    }
+
+    .arrow:hover{
+        background: none;
+    }
+}
